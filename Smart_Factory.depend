@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1701791451 source:f:\programming language\smart_factory\src\factory.cpp
+	"Factory.h"
+
+1702156133 f:\programming language\smart_factory\include\factory.h
+	<iostream>
+	<string>
+
+1701892610 source:f:\programming language\smart_factory\main.cpp
+	<iostream>
+	<string>
+	<conio.h>
+	<stdlib.h>
+	<windows.h>
+	"Factory.h"
+
